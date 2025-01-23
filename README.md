@@ -15,13 +15,15 @@ _IDEAS stands for Innovative Degradation Analysis and Material Development for A
 
 ## News
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+_Stay tuned!_
+
+### Dec. 9, 2025 - Kick-Off Meeting / Online
 
 ### Nov. 29, 2025 - Introduction Symposium / Ambassy of France, Berlin, Germany
 
-<img src="img/251129-Img01.jpg" width="100"> </img>
-<img src="img/251129-Img02.jpg" width="100"> </img>
-<img src="img/251129-Img03.jpg" width="100"> </img>
+<img src="img/251129-Img01.jpg" width="300"> </img>
+<img src="img/251129-Img02.jpg" width="300"> </img>
+<img src="img/251129-Img03.jpg" width="319"> </img>
 
 <!--
   <<< Author notes: Step 1 >>>
