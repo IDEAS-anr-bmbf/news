@@ -23,6 +23,8 @@ _IDEAS stands for Innovative Degradation Analysis and Material Development for A
 
 [Fundings](#fundings)
 
+---
+
 ## News
 
 _Stay tuned!_
@@ -84,8 +86,6 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 
 ---
 
-[<img src="img/logo_anr.png" with=250></img>](https://www.anr.fr) &bull; [<img src="img/logo_bmbf.svg" with=250></img>](https://www.bmbf.fr)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+[<img src="img/logo_anr.png" width=250></img>](https://www.anr.fr) &bull; [<img src="img/logo_bmbf.svg" width=250></img>](https://www.bmbf.de)
 
 </footer>
