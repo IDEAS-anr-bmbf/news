@@ -33,11 +33,15 @@ _Stay tuned!_
 <img src="img/251209-Img02.png" width="306"> </img>
 <img src="img/251209-Img03.png" width="306"> </img>
 
+---
+
 ### Nov. 29, 2025 - Introduction Symposium / Ambassy of France, Berlin, Germany
 
 <img src="img/251129-Img01.jpg" width="300"> </img>
 <img src="img/251129-Img02.jpg" width="300"> </img>
 <img src="img/251129-Img03.jpg" width="319"> </img>
+
+---
 
 ## The IDEAS Project
 
@@ -80,7 +84,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+[<img src="img/logo_anr.png" with=250></img>](https://www.anr.fr) &bull; [<img src="img/logo_bmbf.svg" with=250></img>](https://www.bmbf.fr)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
