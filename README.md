@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# IDEAS ANR PTJ Project
+# IDEAS ANR PTJ - A Franco-German Project
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_IDEAS stands for Innovative Degradation Analysis and Material Development for AEM Systems._
 
 </header>
 
