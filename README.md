@@ -7,11 +7,21 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# IDEAS - A Franco-German Project Funded by ANR/PTJ
+# IDEAS - A Franco-German Project Funded by ANR/BMBF
 
 _IDEAS stands for Innovative Degradation Analysis and Material Development for AEM Systems._
 
 </header>
+
+## Outlook
+
+[News](#News)
+
+[The IDEAS Project](#the-ideas-project)
+
+[Partners](#partners)
+
+[Fundings](#fundings)
 
 ## News
 
@@ -28,6 +38,12 @@ _Stay tuned!_
 <img src="img/251129-Img01.jpg" width="300"> </img>
 <img src="img/251129-Img02.jpg" width="300"> </img>
 <img src="img/251129-Img03.jpg" width="319"> </img>
+
+## The IDEAS Project
+
+## Partners
+
+## Fundings
 
 <!--
   <<< Author notes: Step 1 >>>
