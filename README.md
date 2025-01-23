@@ -39,9 +39,9 @@ _Stay tuned!_
 
 ### Nov. 29, 2025 - Introduction Symposium / Ambassy of France, Berlin, Germany
 
-<img src="img/251129-Img01.jpg" width="300"> </img>
-<img src="img/251129-Img02.jpg" width="300"> </img>
-<img src="img/251129-Img03.jpg" width="319"> </img>
+<img src="img/251129-Img01.jpg" width="265"> </img>
+<img src="img/251129-Img02.jpg" width="265"> </img>
+<img src="img/251129-Img03.jpg" width="280"> </img>
 
 ---
 
