@@ -13,13 +13,20 @@ _IDEAS stands for Innovative Degradation Analysis and Material Development for A
 
 </header>
 
+## News
+
+_Welcome to GitHub Pages and Jekyll :tada:!_
+
+### Nov. 29, 2025 - Introduction Meeting / Ambassy of France, Berlin, Germany
+
+
+
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
   The first step is always the hardest, so pick something easy!
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
--->
 
 ## Step 1: Enable GitHub Pages
 
@@ -37,6 +44,8 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
    > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
    > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+
+-->
 
 <footer>
 
