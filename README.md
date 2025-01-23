@@ -19,6 +19,10 @@ _Stay tuned!_
 
 ### Dec. 9, 2025 - Kick-Off Meeting / Online
 
+<img src="img/251209-Img01.jpg" width="300"> </img>
+<img src="img/251209-Img02.jpg" width="300"> </img>
+<img src="img/251209-Img03.jpg" width="300"> </img>
+
 ### Nov. 29, 2025 - Introduction Symposium / Ambassy of France, Berlin, Germany
 
 <img src="img/251129-Img01.jpg" width="300"> </img>
