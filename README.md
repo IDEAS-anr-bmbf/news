@@ -31,9 +31,9 @@ _Stay tuned!_
 
 ### Dec. 9, 2025 - Kick-Off Meeting / Online
 
-<img src="img/251209-Img01.png" width="250"> </img>
-<img src="img/251209-Img02.png" width="250"> </img>
-<img src="img/251209-Img03.png" width="250"> </img>
+<img src="img/251209-Img01.png" width="260"> </img>
+<img src="img/251209-Img02.png" width="260"> </img>
+<img src="img/251209-Img03.png" width="260"> </img>
 
 ---
 
