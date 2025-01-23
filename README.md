@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# IDEAS ANR PTJ - A Franco-German Project
+# IDEAS - A Franco-German Project Funded by ANR/PTJ
 
 _IDEAS stands for Innovative Degradation Analysis and Material Development for AEM Systems._
 
