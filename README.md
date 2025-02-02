@@ -23,7 +23,7 @@ _IDEAS stands for Innovative Degradation Analysis and Material Development for A
 
 [Fundings](#fundings)
 
-[Publications] (#publications)
+[Publications](#publications)
 
 ---
 
@@ -49,13 +49,22 @@ _Stay tuned!_
 
 ## The IDEAS Project
 
+This project aims to advance Anion Exchange Membrane Electrolysis (AEMEL) technology, a crucial innovation for enhancing hydrogen production from renewable energy sources. By using the unique properties of aerogel catalysts and integrating computational models, the initiative seeks to significantly improve the efficiency, cost-effectiveness, and durability of AEMEL systems. This technological enhancement is crucial in aligning with the European Union’s ambitious energy transition goals, aiming to establish a robust, sustainable hydrogen-based energy infrastructure.
+
 ## Partners
+
+DLR
+PERSEE - Mines ParisTech
+ITODYS - Université Paris Cité
 
 ## Fundings
 
+ANR
+BMBF
+
 ## Publications
 
-here we are
+[XX] cite
 
 <!--
   <<< Author notes: Step 1 >>>
