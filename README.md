@@ -23,6 +23,8 @@ _IDEAS stands for Innovative Degradation Analysis and Material Development for A
 
 [Fundings](#fundings)
 
+[Publications] (#publications)
+
 ---
 
 ## News
@@ -50,6 +52,8 @@ _Stay tuned!_
 ## Partners
 
 ## Fundings
+
+## Publications
 
 <!--
   <<< Author notes: Step 1 >>>
