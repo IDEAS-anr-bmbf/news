@@ -109,7 +109,7 @@ San Francisco, CA 94107, USA <br />
 https://support.github.com/ <br />
  
 ### Funding
-This project is funded by the German Federal Ministry of Education and Research (BMBF; Grant number: 03SF0776) and the French National Research Agency (ANR; Grant number: xxx).
+This project is funded by the German Federal Ministry of Education and Research (BMBF; Grant number: 03SF0776) and the French National Research Agency (ANR; Grant number: ANR-24-ENER-0004).
  
 ### Disclaimer
 The content of this website has been created with the utmost care. However, we cannot guarantee the accuracy, completeness, or timeliness of the information provided. External links lead to content provided by third parties. The respective provider is solely responsible for their content.
