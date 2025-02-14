@@ -25,7 +25,7 @@ _IDEAS stands for Innovative Degradation Analysis and Material Development for A
 
 [Publications](#publications)
 
-[Imprint/Legal Notice](#imprint)
+[Imprint/Legal Notice](#imprint/legal-notice)
 
 ---
 
@@ -70,14 +70,14 @@ BMBF
 
 ## Imprint/Legal Notice
 
-Public Relations Contact
+### Public Relations Contact
 ITODYS, Université Paris Cité
 Responsible for Website and Public Relations:
 Eric Bremond
 Address: xxx
-Email: xxx
+Email: eric.bremond@u-paris.fr
 
-Project Coordinators
+### Project Coordinators
 Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)
 Lukas Mues - Project Coordinator Germany
 
@@ -91,23 +91,22 @@ Project Coordinator France
 Christian Beauger
 Address: xxx
 Email: xxx
- 
- 
-Website Hosting
+
+### Website Hosting
 Hosting Service Provider:
 GitHub, Inc.
 88 Colin P. Kelly Jr St,
 San Francisco, CA 94107, USA
 https://support.github.com/
  
-Funding
+### Funding
 This project is funded by the German Federal Ministry of Education and Research (BMBF; Grant number: 03SF0776) and the French National Research Agency (ANR; Grant number: xxx).
  
-Disclaimer
+### Disclaimer
 The content of this website has been created with the utmost care. However, we cannot guarantee the accuracy, completeness, or timeliness of the information provided.
 External links lead to content provided by third parties. The respective provider is solely responsible for their content.
  
-Copyright
+### Copyright
 The content and works published on this website are subject to copyright. Any reproduction, editing, distribution, or use beyond the scope of copyright requires prior written consent from the copyright holder.
 
 
