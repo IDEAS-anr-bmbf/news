@@ -82,16 +82,15 @@ Email: eric.bremond@u-paris.fr <br />
 
 ### Project Coordinators
 **Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)** <br />
-Lukas Mues - Project Coordinator Germany <br />
+**Lukas Mues - Project Coordinator Germany** <br />
 
 Carl-von-Ossietzky-Str. 15 <br />
 26129 Oldenburg, Germany <br />
 
 Email: Lukas.Mues@dlr.de <br />
  
-DEP-PERSEE, Mines Paris - PSL <br />
-Project Coordinator France <br />
-Christian Beauger <br />
+**DEP-PERSEE, Mines Paris - PSL** <br />
+**Christian Beauger - Project Coordinator France** <br />
 
 10207, rue Claude Daunesse
 F-06904 Sophia Antipolis, France <br />
