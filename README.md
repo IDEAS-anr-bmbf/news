@@ -25,7 +25,7 @@ _IDEAS stands for Innovative Degradation Analysis and Material Development for A
 
 [Publications](#publications)
 
-[Imprint/Legal Notice](#imprint/legal-notice)
+[Legal Notice](#legal-notice)
 
 ---
 
@@ -55,9 +55,9 @@ This project aims to advance Anion Exchange Membrane Electrolysis (AEMEL) techno
 
 ## Partners
 
-DLR
-PERSEE - Mines ParisTech
-ITODYS - Université Paris Cité
+DLR <br />
+PERSEE - Mines ParisTech <br />
+ITODYS - Université Paris Cité <br />
 
 ## Fundings
 
@@ -68,7 +68,7 @@ BMBF
 
 [XX] cite
 
-## Imprint/Legal Notice
+## Legal Notice
 
 ### Public Relations Contact
 **ITODYS, Université Paris Cité** <br />
@@ -76,7 +76,7 @@ Responsible for Website and Public Relations: <br />
 Eric Bremond <br />
 
 15, rue Jean-Antoine de Baïf <br />
-75013 Paris, France <br />
+F-75013 Paris, France <br />
 
 Email: eric.bremond@u-paris.fr <br />
 
@@ -89,25 +89,27 @@ Carl-von-Ossietzky-Str. 15 <br />
 
 Email: Lukas.Mues@dlr.de <br />
  
-DEP-PERSEE, Mines Paris - PSL
-Project Coordinator France
-Christian Beauger
-Address: xxx
-Email: xxx
+DEP-PERSEE, Mines Paris - PSL <br />
+Project Coordinator France <br />
+Christian Beauger <br />
+
+10207, rue Claude Daunesse
+F-06904 Sophia Antipolis, France <br />
+
+Email: christian.beauger@minesparis.psl.eu <br />
 
 ### Website Hosting
-Hosting Service Provider:
-GitHub, Inc.
-88 Colin P. Kelly Jr St,
-San Francisco, CA 94107, USA
-https://support.github.com/
+Hosting Service Provider: <br />
+GitHub, Inc. <br />
+88 Colin P. Kelly Jr St, <br />
+San Francisco, CA 94107, USA <br />
+https://support.github.com/ <br />
  
 ### Funding
 This project is funded by the German Federal Ministry of Education and Research (BMBF; Grant number: 03SF0776) and the French National Research Agency (ANR; Grant number: xxx).
  
 ### Disclaimer
-The content of this website has been created with the utmost care. However, we cannot guarantee the accuracy, completeness, or timeliness of the information provided.
-External links lead to content provided by third parties. The respective provider is solely responsible for their content.
+The content of this website has been created with the utmost care. However, we cannot guarantee the accuracy, completeness, or timeliness of the information provided. External links lead to content provided by third parties. The respective provider is solely responsible for their content.
  
 ### Copyright
 The content and works published on this website are subject to copyright. Any reproduction, editing, distribution, or use beyond the scope of copyright requires prior written consent from the copyright holder.
