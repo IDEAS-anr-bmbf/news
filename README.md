@@ -71,21 +71,23 @@ BMBF
 ## Imprint/Legal Notice
 
 ### Public Relations Contact
-<bf>ITODYS, Université Paris Cité</bf> <br />
+**ITODYS, Université Paris Cité** <br />
 Responsible for Website and Public Relations: <br />
 Eric Bremond <br />
-Address: 15, rue Jean-Antoine de Baïf <br />
+
+15, rue Jean-Antoine de Baïf <br />
 75013 Paris, France <br />
+
 Email: eric.bremond@u-paris.fr <br />
 
 ### Project Coordinators
-Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)
-Lukas Mues - Project Coordinator Germany
+**Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)** <br />
+Lukas Mues - Project Coordinator Germany <br />
 
-Carl-von-Ossietzky-Str. 15 
-26129 Oldenburg, Germany
+Carl-von-Ossietzky-Str. 15 <br />
+26129 Oldenburg, Germany <br />
 
-Email: Lukas.Mues@dlr.de
+Email: Lukas.Mues@dlr.de <br />
  
 DEP-PERSEE, Mines Paris - PSL
 Project Coordinator France
