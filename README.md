@@ -71,11 +71,12 @@ BMBF
 ## Imprint/Legal Notice
 
 ### Public Relations Contact
-ITODYS, Université Paris Cité
-Responsible for Website and Public Relations:
-Eric Bremond
-Address: xxx
-Email: eric.bremond@u-paris.fr
+ITODYS, Université Paris Cité <br />
+Responsible for Website and Public Relations: <br />
+Eric Bremond <br />
+Address: 15, rue Jean-Antoine de Baïf <br />
+75013 Paris, France <br />
+Email: eric.bremond@u-paris.fr <br />
 
 ### Project Coordinators
 Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR)
