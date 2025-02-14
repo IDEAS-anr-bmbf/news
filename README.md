@@ -71,7 +71,7 @@ BMBF
 ## Imprint/Legal Notice
 
 ### Public Relations Contact
-ITODYS, Université Paris Cité <br />
+<bf>ITODYS, Université Paris Cité</bf> <br />
 Responsible for Website and Public Relations: <br />
 Eric Bremond <br />
 Address: 15, rue Jean-Antoine de Baïf <br />
