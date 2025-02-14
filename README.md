@@ -37,6 +37,8 @@ _Stay tuned!_
 
 <img src="img/250204-Img01.jpg" width="270"> </img>
 
+---
+
 ### Dec. 9, 2024 - Kick-Off Meeting / Online
 
 <img src="img/251209-Img01.png" width="270"> </img>
